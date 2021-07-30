@@ -19,6 +19,10 @@ The following **required** functionality is completed:
 * [x] User can **reset the state of the fractals**
 * [x] User can **add more fractals**
 
+## How To
+
+Execute Main.java to run the program
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
